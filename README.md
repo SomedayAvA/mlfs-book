@@ -1,7 +1,6 @@
 # mlfs-book
 O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs
 
-
 # Our design for air-quality prediction:
 Chosen sensor: Beijing, Temple of Heaven, dongcheng
 We use the XGBoost regression model to perform the prediction.
@@ -16,3 +15,5 @@ Now we get prediction for next 7 days.
 
 # To see the prediction:
 [Click here](./docs/air-quality/index.md)
+
+lab1 work by GroupC in ID2223
