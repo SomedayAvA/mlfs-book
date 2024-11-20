@@ -3,7 +3,7 @@ O'Reilly book - Building Machine Learning Systems with a feature store: batch, r
 
 # Our design for air-quality prediction:
 Chosen sensor: Beijing, Temple of Heaven, dongcheng.\
-We use the XGBoost regression model to perform the prediction.\
+Model: XGBoost regression model.\
 Added the feature: pm25in3day, which is the average value of pm25 during the past 3 days(excluding today).\
 Predictor: pm25in3day, weather data
 
